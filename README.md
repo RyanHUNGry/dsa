@@ -1,2 +1,2 @@
 # dsa
-A compilation of data structures $ algorithms preparation
+A compilation of data structures & algorithms preparation
